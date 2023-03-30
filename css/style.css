@@ -767,3 +767,7 @@ a:hover {
 .pointer{
   cursor: pointer;
 }
+
+.with-article-news{
+  width:445px ;
+}
